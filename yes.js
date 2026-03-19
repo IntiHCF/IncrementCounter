@@ -1,3 +1,4 @@
+//Inti Catacora 78368
 let count = 0;
 let display = document.getElementById('counter');
 
